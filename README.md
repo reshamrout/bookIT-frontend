@@ -24,7 +24,7 @@ It provides a beautiful and responsive interface to browse, search, and book exp
 
 3. **Environment Variables**
 Create a .env file inside frontend/ with the following:
-VITE_API_BASE_URL=http://localhost:5000
+VITE_API_BASE_URL=http://localhost:4000
 (This URL points to your backend API.)
 
 4. **Start the development server**
