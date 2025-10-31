@@ -1,5 +1,7 @@
 # 🌍 Travel Booking Frontend
 
+Live Link : https://book-it-frontend-two.vercel.app/
+
 This is the frontend for the **Travel Booking Application**, built using **React + Vite**.  
 It provides a beautiful and responsive interface to browse, search, and book experiences.
 
@@ -7,7 +9,7 @@ It provides a beautiful and responsive interface to browse, search, and book exp
 
 ## 🚀 Tech Stack
 
-- **React.js** — UI Library  
+- **React** — UI Library  
 - **Vite** — Fast build tool for development  
 - **Tailwind CSS** — Styling and responsive design  
 - **Axios** — API communication  
