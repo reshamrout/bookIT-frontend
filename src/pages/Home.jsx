@@ -8,7 +8,7 @@ export default function Home({ searchQuery }) {
   const [error, setError] = useState("");
 
   useEffect(() => {
-    API.get("/experiences")
+    API.get("/api/experiences")
       .then((res) => setExperiences(res.data))
       .catch((err) => setError("Failed to load experiences"))
       .finally(() => setLoading(false));
