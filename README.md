@@ -33,7 +33,15 @@ VITE_API_BASE_URL=http://localhost:4000
     npm run dev  
 
 5. **Open the app in your browser at:**
-👉 http://localhost:5173  
+👉 http://localhost:5173
+
+**Screenshots**
+<img width="1710" height="1107" alt="Screenshot 2025-11-01 at 12 11 02 PM" src="https://github.com/user-attachments/assets/5f08be61-cfed-4c31-874d-90a0855cfa9c" />  
+<img width="1710" height="1107" alt="Screenshot 2025-11-01 at 12 11 21 PM" src="https://github.com/user-attachments/assets/a27ba8e8-6a6e-43b5-8714-669f3912640e" />  
+<img width="1710" height="1107" alt="Screenshot 2025-11-01 at 12 11 50 PM" src="https://github.com/user-attachments/assets/4cc2b0ec-0cc1-4ce0-a725-61978ab55938" />  
+<img width="1710" height="1107" alt="Screenshot 2025-11-01 at 12 12 08 PM" src="https://github.com/user-attachments/assets/d3f85f51-6140-4af1-b1b0-6031aa4b9045" />  
+<img width="1710" height="1107" alt="Screenshot 2025-11-01 at 12 12 21 PM" src="https://github.com/user-attachments/assets/e9ef8c70-ce73-465f-b835-8398961ea364" />  
+
 
 ✨ Features
 
