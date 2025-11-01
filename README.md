@@ -19,20 +19,20 @@ It provides a beautiful and responsive interface to browse, search, and book exp
 
 ## ⚙️ Installation and Setup
 
-1. **Navigate to the frontend directory**
+1. **Navigate to the frontend directory**  
     cd frontend  
-2. **Install dependencies**
+2. **Install dependencies**  
     npm install  
 
-3. **Environment Variables**
-Create a .env file inside frontend/ with the following:  
-VITE_API_BASE_URL=http://localhost:4000  
+3. **Environment Variables**  
+Create a .env file inside frontend with the following:   
+VITE_API_BASE_URL=http://localhost:4000    
 (This URL points to your backend API.)  
 
-4. **Start the development server**
+4. **Start the development server**  
     npm run dev  
 
-5. **Open the app in your browser at:**
+5. **Open the app in your browser at:**  
 👉 http://localhost:5173
 
 **Screenshots**
@@ -43,14 +43,11 @@ VITE_API_BASE_URL=http://localhost:4000
 <img width="1710" height="1107" alt="Screenshot 2025-11-01 at 12 12 21 PM" src="https://github.com/user-attachments/assets/e9ef8c70-ce73-465f-b835-8398961ea364" />  
 
 
-✨ Features
+✨ Features  
 
-Explore travel destinations and activities  
-
+Explore travel destinations and activities    
 Dynamic search and filters  
-
 Responsive and fast-loading UI  
-
 Smooth navigation using React Router  
 
 💡 Author  
